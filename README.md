@@ -28,6 +28,7 @@ Everyone benefits from it too, the buyer gets to choose if the idea will be good
 and will be beneficial for the seller too because they are getting paid for something they
 have thought up and then put down on paper. This allows the massively complex ideas
 to be sold off to companies who can make it happen, this will ensure global progress.
+
 There are 2 selling methods which each buyer and seller would work through and each
 situation would be different.
 
