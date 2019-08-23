@@ -29,14 +29,14 @@ and will be beneficial for the seller too because they are getting paid for some
 have thought up and then put down on paper. This allows the massively complex ideas
 to be sold off to companies who can make it happen, this will ensure global progress.
 
-There are 2 selling methods which each buyer and seller would work through and each
+- There are 2 selling methods which each buyer and seller would work through and each
 situation would be different.
 
-- Selling method 1: buyer (developer/development Company) buys the idea off the seller
+ - Selling method 1: buyer (developer/development Company) buys the idea off the seller
 outright. All previous rights held by the seller are forfeited and a lump sum is paid by the
 buyer to the seller.
 
-- Selling method 2: buyer and seller reach an agreement to continue development
+ - Selling method 2: buyer and seller reach an agreement to continue development
 together as a joint venture. In these cases a contract between both parties is written up.
 The buyer and seller will accept they only own 50% and also accepts that neither on
 gets paid unless the program turns a profit or is sold and bought out by someone.
