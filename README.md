@@ -2,7 +2,7 @@
 
 1. Introduction
 
-- Over the past year and a half whilst I have been developing programs and application
+       Over the past year and a half whilst I have been developing programs and application
 concepts, many people have come to me asking if I can build programs and apps for
 them. This has led me to this, ‘Conceptualize’, a site which allows you to sell your ideas
 directly to software companies, both large and small. Plenty of people have ground
